@@ -1,0 +1,413 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShopWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShopWeb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\product\\1136dd2a-316e-4180-84fa-fe95088e69cd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1136dd2a-316e-4180-84fa-fe95088e69cd.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\product\\41ba8176-a85b-40cc-80de-d7605bff3526.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\41ba8176-a85b-40cc-80de-d7605bff3526.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\product\\90c79de3-9bcf-4a0f-a8cc-431388006a9a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\90c79de3-9bcf-4a0f-a8cc-431388006a9a.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\product\\972b4a0a-613e-4187-bd8d-c57ef9f4392c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\972b4a0a-613e-4187-bd8d-c57ef9f4392c.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\product\\b3e121ee-f705-4c0c-822a-6239256f7995.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b3e121ee-f705-4c0c-822a-6239256f7995.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\product\\e1596061-9fcc-4e39-b97a-f19f0beaff39.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e1596061-9fcc-4e39-b97a-f19f0beaff39.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\product\\e8064fd8-4d6d-4715-8450-061cb6ea9c15.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e8064fd8-4d6d-4715-8450-061cb6ea9c15.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-1\\064498de-de61-4a42-ab64-6a7e7b83bd51.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\064498de-de61-4a42-ab64-6a7e7b83bd51.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-1\\0f09982d-d0b7-4571-9ada-1267ad925470.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\0f09982d-d0b7-4571-9ada-1267ad925470.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-1\\3cc41d0b-70cc-4203-a5e2-ff90aa05fc79.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\3cc41d0b-70cc-4203-a5e2-ff90aa05fc79.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-1\\8c0b792d-282e-4e3c-b4f3-41f05a3282a8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\8c0b792d-282e-4e3c-b4f3-41f05a3282a8.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-2\\35a155bd-4d84-4926-936b-bc1c0cff2017.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\35a155bd-4d84-4926-936b-bc1c0cff2017.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-2\\6c2133da-211f-4ef1-90a9-dd1cf3b66f38.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\6c2133da-211f-4ef1-90a9-dd1cf3b66f38.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-2\\7c4f5cfc-b894-4eae-9ad4-02b0481a3faf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\7c4f5cfc-b894-4eae-9ad4-02b0481a3faf.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-2\\de2949d8-2106-4334-a0c5-0402f773df4c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\de2949d8-2106-4334-a0c5-0402f773df4c.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-3\\1f36fa1f-7f9a-4b4f-84d2-eafbf69a6220.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\1f36fa1f-7f9a-4b4f-84d2-eafbf69a6220.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-3\\748b27d9-9802-42f6-adab-8df55aaf4342.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\748b27d9-9802-42f6-adab-8df55aaf4342.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-3\\95ad6ca5-b8f4-4712-8ca4-e3994531126e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\95ad6ca5-b8f4-4712-8ca4-e3994531126e.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-3\\cf8c7d40-6cd0-4957-92dd-68e90b83e632.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\cf8c7d40-6cd0-4957-92dd-68e90b83e632.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-4\\6b702e26-aa2b-47b1-bab3-f885486939e3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\6b702e26-aa2b-47b1-bab3-f885486939e3.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-4\\8be61614-113a-4dd5-a2ff-d1eb70e16f0b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\8be61614-113a-4dd5-a2ff-d1eb70e16f0b.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-4\\8f39c779-826d-4bd5-8a62-6435d064312f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\8f39c779-826d-4bd5-8a62-6435d064312f.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-4\\fb3c23ff-b587-4cbd-8f1d-d0ec7a81760b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\fb3c23ff-b587-4cbd-8f1d-d0ec7a81760b.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-5\\1cbca164-761a-4c55-9459-82d6f2c9e0c1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\1cbca164-761a-4c55-9459-82d6f2c9e0c1.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-5\\2b452c0d-e5af-4710-8027-c1ec7d5e16eb.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\2b452c0d-e5af-4710-8027-c1ec7d5e16eb.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-5\\7f0d6e2a-1a34-4c44-9596-0893338718bf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\7f0d6e2a-1a34-4c44-9596-0893338718bf.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-5\\bb65847b-eae3-4e24-9653-663f550aded7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\bb65847b-eae3-4e24-9653-663f550aded7.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-6\\3772c79c-f3dd-4f33-ba5a-e4bb6e198375.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\3772c79c-f3dd-4f33-ba5a-e4bb6e198375.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-6\\52814dff-4844-44a5-8e73-95b0e9c22c50.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\52814dff-4844-44a5-8e73-95b0e9c22c50.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-6\\b99dc044-778e-40a4-bbce-3dc0dbd9402e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\b99dc044-778e-40a4-bbce-3dc0dbd9402e.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\images\\products\\product-6\\e138fc79-4e73-45a4-8fba-14aa33d0e229.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-6\\e138fc79-4e73-45a4-8fba-14aa33d0e229.jpg"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\E-Commerce\\BookShop\\BookShopWeb\\BookShopWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShopWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookShopWeb.props",
+      "PackagePath": "build\\BookShopWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShopWeb.props",
+      "PackagePath": "buildMultiTargeting\\BookShopWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookShopWeb.props",
+      "PackagePath": "buildTransitive\\BookShopWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
